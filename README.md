@@ -39,7 +39,7 @@ layers deep. The last convolutional output of Resnet101 is fed as input to our m
 add a fully connected layer to produce 133-dimensional output (one for each dog category). The model 
 performed extremely well when compared to CNN from scratch. With 10 epochs, the model got 84%
 accuracy.
-[]!(output.png)
+[]!(https://github.com/Vikashr21/Convolutional-Neural-Networks--CNN--project-Dog-Breed-Identification/blob/main/output.PNG)
 
 **Model Evaluation and Validation**
 <br>**Human Face detector:** The human face detector function was created using OpenCV’s implementation
