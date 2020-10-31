@@ -2,7 +2,7 @@
 
 This is the repo of Dog breed classifier project in Udacity ML Nanodegree.
 <br>**The Road Ahead**
-<br>notebook is broken into 6 steps:
+<br>notebook is broken into 7 steps:
 
 <br>**Step 0:** Import Datasets:
 
