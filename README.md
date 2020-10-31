@@ -52,3 +52,10 @@ images of human dataset.
 architecture was trained for 10 epochs, and the final model produced an accuracy of 84% on test data.
 The model correctly predicted breeds for 708 images out of 836 total images.
 <br><br>**Accuracy on test data: 84% (708/836)**
+
+<br>**References** 
+<br>1.	https://en.wikipedia.org/wiki/Convolutional_neural_network
+<br>2.	https://www.kaggle.com/c/dog-breed-identification/overview/description
+<br>3.	https://github.com/udacity/dog-project
+<br>4.	https://www.kdnuggets.com/2018/04/right-metric-evaluating-machine-learning-models-1.html
+<br>5.	https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234
