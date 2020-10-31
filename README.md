@@ -27,8 +27,8 @@ The code cell below downloads the VGG-16 model, along with weights that have bee
 	
  build a CNN model from scratch to solve the problem. The model has 3 convolutional layers. All convolutional layers have kernel size of 3 and stride 1. The first conv layer (conv1) takes the 224*224 input image and the final conv layer (conv3) produces an output size of 128. ReLU activation function is used here. The pooling layer of (2,2) is used which will reduce the input size by 2. We have two fully connected layers that finally produces 133-dimensional output. A dropout of 0.25 is added to avoid over overfitting
 
-**Step 5:** Write your Algorithm
-**Step 6:** Test Your Algorithm
+<br>**Step 5:** Write your Algorithm
+<br>**Step 6:** Test Your Algorithm
 
 
 **Refinement**
