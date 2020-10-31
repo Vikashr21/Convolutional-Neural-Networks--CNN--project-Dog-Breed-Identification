@@ -51,4 +51,4 @@ images of human dataset.
 <br>**CNN using transfer learning:** The CNN model created using transfer learning with ResNet101
 architecture was trained for 10 epochs, and the final model produced an accuracy of 84% on test data.
 The model correctly predicted breeds for 708 images out of 836 total images.
-**Accuracy on test data: 84% (708/836)**
+<br><br>**Accuracy on test data: 84% (708/836)**
